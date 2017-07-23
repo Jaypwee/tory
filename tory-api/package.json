@@ -1,0 +1,9 @@
+{
+  "name": "tory-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^5.0.1"
+  }
+}
