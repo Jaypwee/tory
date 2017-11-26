@@ -1,4 +1,4 @@
-#Tory
+## Tory
 
 >An Inventory Management SPA using React
 
