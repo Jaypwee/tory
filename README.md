@@ -5,8 +5,12 @@
 <h1> Work in Progress </h1>
 
 ## Currently Implemented
-<<<<<<< HEAD
 - Basic Inventory Management MVP
-=======
-- Basic Inventory Management MVP
->>>>>>> c56a459ec5b56caf19b8a18998fdb359cdacf218
+
+## Implementation in progress
+- Withdrawing items from inventory
+- Add script for setting up MongoDB
+- Add script for setting up node server
+- Add search function for add contact function
+- CSS styling
+- Code cleaning
