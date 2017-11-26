@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "knex": "^0.13.0",
+    "mongodb": "^2.2.31",
+    "pg": "^7.0.2",
     "restify": "^5.0.1"
   }
 }

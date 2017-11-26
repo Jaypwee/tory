@@ -3,14 +3,30 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "bootstrap-toggle": "^2.2.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "moment": "^2.19.1",
     "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
+    "react-bootstrap-table": "^4.1.5",
+    "react-datepicker": "^0.58.0",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.10"
+    "react-fontawesome": "^1.6.1",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.10",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^4.4.1",
+    "redux-thunk": "^2.2.0"
   },
+  "proxy": "http://localhost:3000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "mongod": "mongod.exe --dbpath C:\\Users\\DELL\\tory\\tory-api\\Mongodata"
   }
 }
